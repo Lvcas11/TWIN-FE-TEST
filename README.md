@@ -1,7 +1,5 @@
 # TWIN-FE-TEST
 
-# Project Name
-
 Hi ! and thanks for giving me the opportunity to present my test. I tried to be basic and do the code as clean as possible. I like to do simple things and not confuse future developers when they need to add/modify something that i made, so that is my main idea of this.
 
 I used 6hs as were suggested but i will use 1hs extra to make the e2e tests for the pages. In addition i just used 3 of the api's. I did a responsive design but looks very chromatic, can be improved for sure but I would love to have a UX/UI to help me with that.
